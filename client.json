@@ -2,7 +2,6 @@
   "client_id": "https://gowritegrisha.github.io/cursor-mcp-oauth-client/client.json",
   "client_name": "Cursor (ElevenLabs EU MCP)",
   "redirect_uris": [
-    "cursor://anysphere.cursor-mcp/oauth/callback",
     "http://localhost:8787/callback",
     "http://127.0.0.1:8787/callback"
   ],
